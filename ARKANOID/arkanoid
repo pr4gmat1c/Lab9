@@ -1,0 +1,3 @@
+# Game is paused and not paused when a key "P" is pressed
+# When the game is paused, you can press UP and Down arrow keys to change the size of the ball
+#  When the game is paused, you can press SPACE and ESCAPE keys to change the size of the paddle
